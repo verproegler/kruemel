@@ -5,9 +5,9 @@
 | Größe | Art | Anzahl | Bemerkungen |
 |-------|-----|-------:|-------------|
 | 50 | Leggings | 2 | ohne Fuß |
-| 56 | Leggings | 5 | |
-| 62 | Leggings | 5 | |
-| 62/68 | Leggings | 5 | |
+| 56 | Leggings | 5 | ohne Fuß |
+| 62 | Leggings | 5 | ohne Fuß |
+| 62/68 | Leggings | 5 | ohne Fuß |
 | 62 | Bodys | 5 | |
 | 62/68 | Bodys | 7 | |
 | 56 | Langarm-Shirts | 3 | |
@@ -16,7 +16,7 @@
 | 62 | Hosen | 3 | |
 | 62/68 | Hosen | 5 | |
 | 62 | Latzhosen | 5 | ohne Fuß; zum Knöpfen im Schritt (wichtig) |
-| 62/68 | Latzhosen | 5 | |
+| 62/68 | Latzhosen | 5 | ohne Fuß; zum Knöpfen im Schritt (wichtig) |
 | 62 | dünne Pullover | 4 | |
 | 62/68 | dünne Pullover | 5 | |
 | 62 | dünne Jäckchen | 4 | |
@@ -24,7 +24,7 @@
 | 62 | etwas dickere Jäckchen | 3 | |
 | 62/68 | etwas dickere Jäckchen | 3 | |
 | 62 | Schlafanzüge / Strampler | 5 | ohne Fuß; mit Reißverschluss, nicht zum Knöpfen |
-| 62/68 | Schlafanzüge / Strampler | 5 | |
+| 62/68 | Schlafanzüge / Strampler | 5 | ohne Fuß; mit Reißverschluss, nicht zum Knöpfen |
 | — | Halstücher | 5 | |
 
 ## Sonstiges
