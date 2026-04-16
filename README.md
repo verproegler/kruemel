@@ -31,8 +31,8 @@
 | 62 | etwas dickere Jäckchen | 3 | |
 | 62/68 | etwas dickere Jäckchen | 3 | |
 | | | | |
-| 62 | Schlafanzüge / Strampler | 5 | ohne Fuß; mit Reißverschluss, nicht zum Knöpfen |
-| 62/68 | Schlafanzüge / Strampler | 5 | ohne Fuß; mit Reißverschluss, nicht zum Knöpfen |
+| 62 | Schlafanzüge / Strampler | 5 | ohne Fuß; mit Reißverschluss, <span style="color:red">nicht</span> zum Knöpfen |
+| 62/68 | Schlafanzüge / Strampler | 5 | ohne Fuß; mit Reißverschluss, <span style="color:red">nicht</span> zum Knöpfen |
 | | | | |
 | — | Halstücher | 5 | |
 
